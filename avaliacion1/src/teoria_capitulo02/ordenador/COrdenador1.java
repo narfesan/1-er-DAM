@@ -33,7 +33,7 @@ public class COrdenador1 {
 		MiOrdenador.Procesador = "Intel Pentium";
 		MiOrdenador.Pantalla = "TFT";
 		MiOrdenador.EncenderOrdenador();
-		MiOrdenador.Estado();
+		MiOrdenador.Estado();;
 		
 		
 
