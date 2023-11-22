@@ -35,7 +35,7 @@ public class COrdenador1 {
 		MiOrdenador.EncenderOrdenador();
 		MiOrdenador.Estado();
 		
-		;
+		
 
 	}
 }
